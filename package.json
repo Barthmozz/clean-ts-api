@@ -1,5 +1,5 @@
 {
-  "name": "clean-node-api",
+  "name": "clean-ts-api",
   "version": "1.0.0",
   "description": "NodeJS API using TDD, Clean Architecture and Typescript",
   "scripts": {
