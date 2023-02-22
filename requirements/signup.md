@@ -9,9 +9,9 @@
 - [ ] Validates if there is already an user with the provided email
 - [x] Generates an **encrypted** password (this password cannot be decrypted)
 - [x] **Creates** an account for the user with the provided data, **replacing** the password with the encrypted password
-- [ ] Generates an access **token** from the user ID
-- [ ] **Updates** user data with the generated access token
-- [ ] Returns **200** with the access token and username
+- [x] Generates an access **token** from the user ID
+- [x] **Updates** user data with the generated access token
+- [x] Returns **200** with the access token and username
 
 > ## Exceptions
 
