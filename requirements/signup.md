@@ -19,8 +19,8 @@
 - [x] Returns **400** if name, email, password or passwordConfirmation are not provided by the client
 - [x] Returns **400** if password and passwordConfirmation are not equal
 - [x] Returns **400** if email is invalid
-- [ ] Returns **403** if email is already in use
+- [x] Returns **403** if email is already in use
 - [x] Returns **500** if an error occurs when trying to generate an encrypted password
 - [x] Returns **500** if an error occurs when trying to create the user account
-- [ ] Returns **500** if an error occurs when trying to generate the access token
-- [ ] Returns **500** if an error occurs when trying to update the user with the generated access token
+- [x] Returns **500** if an error occurs when trying to generate the access token
+- [x] Returns **500** if an error occurs when trying to update the user with the generated access token
