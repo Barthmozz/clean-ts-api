@@ -6,7 +6,7 @@
 - [x] Validates required data **name**, **email**, **password** and **passwordConfirmation**
 - [x] Validates that **password** and **passwordConfirmation** are equals
 - [x] Validates that **email** is valid
-- [ ] Validates if there is already an user with the provided email
+- [x] Validates if there is already an user with the provided email
 - [x] Generates an **encrypted** password (this password cannot be decrypted)
 - [x] **Creates** an account for the user with the provided data, **replacing** the password with the encrypted password
 - [x] Generates an access **token** from the user ID
