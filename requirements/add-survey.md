@@ -12,5 +12,5 @@
 
 - [ ] Returns **404** if API does not exist
 - [ ] Returns **403** if user is not an admin
-- [ ] Returns **400** if question or answers are not provided by the client
+- [x] Returns **400** if question or answers are not provided by the client
 - [ ] Returns **500** if an error occurs when trying to create an survey
